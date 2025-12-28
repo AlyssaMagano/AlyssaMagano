@@ -1,4 +1,4 @@
-<h1 align="center"><b>  I'm Aly Magano
+<h1 align="center"><b>  I'm Alyssa Magano
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5uajY1eXJzb2NqZmU1aG1oampnZGZjZm9qbWx2OGJjcTl3M3h1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.gif" width="50px" height="50px"></h1>
 
 
